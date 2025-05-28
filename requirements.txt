@@ -1,5 +1,5 @@
 fastapi
 aiohttp
-unicorn[standard]
+uvicorn[standard]
 redis
 
